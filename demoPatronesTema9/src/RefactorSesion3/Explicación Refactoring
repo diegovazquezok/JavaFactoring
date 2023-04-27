@@ -1,0 +1,9 @@
+En este código se han aplicado las siguientes mejoras:
+
+Cada función matemática tiene su propia clase con métodos estáticos para cada variante de la función.
+Se han usado nombres más descriptivos para las clases, métodos y variables.
+No se utiliza ninguna variable global.
+Los métodos son estáticos para poder llamarlos directamente con el nombre de la clase.
+La función sumaRecursiva usa recursión de cola para mejorar su eficiencia.
+Se ha creado la clase CalculadoraMatematica que centraliza la creación de objetos de las clases Factorial y Suma, siguiendo el patrón de diseño Factory.
+Se ha utilizado el patrón de diseño Singleton para garantizar que solo haya una instancia
