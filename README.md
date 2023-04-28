@@ -34,3 +34,12 @@ Implementa Args en uno de los proyectos que se han ido trabajando y aplica las b
 Identifica las características principales de la arquitectura limpia, indica en que casos se tendría que utilizar la arquitectura limpia y como lo harías.
 
 Teniendo en cuenta lo visto en la sesión 21, utiliza un proyecto de los trabajados y límpialo. Si encuentras código duplicado, elimínalo y realiza la minificación de las clases y métodos.
+
+
+Ejercicios sesiones 25, 26 y 27
+
+Continúa con el proyecto de los anteriores ejercicios ahora se va a trabajar sobre las letras I y D de los principios SOLID, deberás:
+
+Si no has creado interfaces ya, créalas siguiendo el principio de segregación de interfaz (I) el cual indica que las interfaces grandes se deben segregar en varias interfaces pequeñas. Si ya las has creado, modifícalas para que cumplan el principio.
+
+Deberás crear una conexión a base de datos aplicando el último principio de la inversión de dependencias (D).
