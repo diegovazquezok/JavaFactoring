@@ -1,5 +1,7 @@
 package RefactorSesion3;
 
+import java.util.stream.IntStream;
+
 public class Factorial {
 
     public static int iterativo(int n) {
